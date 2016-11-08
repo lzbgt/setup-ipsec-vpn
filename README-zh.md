@@ -1,9 +1,6 @@
 ﻿# IPsec VPN 服务器一键安装脚本
 
-[![Build Status](https://static.ls20.com/travis-ci/setup-ipsec-vpn.svg)](https://travis-ci.org/hwdsl2/setup-ipsec-vpn) 
-[![Author](https://static.ls20.com/travis-ci/author.svg)](#作者) 
-[![GitHub stars](https://img.shields.io/github/stars/hwdsl2/setup-ipsec-vpn.svg?maxAge=3600)](https://github.com/hwdsl2/setup-ipsec-vpn/stargazers) 
-[![Docker Pulls](https://img.shields.io/docker/pulls/hwdsl2/ipsec-vpn-server.svg?maxAge=3600)](https://github.com/hwdsl2/docker-ipsec-vpn-server)
+[![Build Status](https://static.ls20.com/travis-ci/setup-ipsec-vpn.svg)](https://travis-ci.org/hwdsl2/setup-ipsec-vpn) [![Author](https://static.ls20.com/travis-ci/author.svg)](#作者) [![GitHub stars](https://static.ls20.com/travis-ci/stars-setup-ipsec-vpn.svg)](https://github.com/hwdsl2/setup-ipsec-vpn/stargazers) [![Docker Pulls](https://static.ls20.com/travis-ci/pulls-docker-hub.svg)](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 
 使用 Linux Shell 脚本一键快速搭建 IPsec VPN 服务器。支持 IPsec/L2TP 和 Cisco IPsec 协议，可用于 Ubuntu，Debian 和 CentOS 系统。你只需提供自己的 VPN 登录凭证，然后运行脚本自动完成安装。
 
